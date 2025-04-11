@@ -3,15 +3,12 @@
 - **Deployed Program ID**:  
   `Bdp9Vus1bgucSnzjTfy3WAkpsh6ZesRoqzt7uaZMBkvR`
 
-- **Wallet Address (payer)**:  
-  *(пример, если ты указывал ключ в `solana config get`)*  
-  `$(solana address)` или `~/.config/solana/id.json`
+- **Wallet Address (payer)**:   
+  `AzpCH3h11u2ZtuRrJhNqghSTmcB2iUPShdtsKrYi5StF` 
 
-> Убедись, что ты скопировал именно тот `Program ID`, который вывел `solana program deploy`.
 
 ---
 
-Если хочешь — вот полный шаблон `README.md` для Solana Hello World:
 
 ```markdown
 # 🚀 Solana Hello World Program
@@ -36,7 +33,7 @@ Deployed Program ID:
 Bdp9Vus1bgucSnzjTfy3WAkpsh6ZesRoqzt7uaZMBkvR
 
 Wallet Address:
-$(solana address)
+`AzpCH3h11u2ZtuRrJhNqghSTmcB2iUPShdtsKrYi5StF`
 
 🛠️ Tech Stack
 Rust + Cargo
