@@ -1,0 +1,13 @@
+
+# Сборочные артефакты
+/target/
+/.vscode/
+/.idea/
+
+# Solana ключи и ключи пользователя
+*.json
+!Cargo.lock
+
+# Rust
+**/*.rs.bk
+
