@@ -11,3 +11,4 @@
 # Rust
 **/*.rs.bk
 
+test-ledger/
